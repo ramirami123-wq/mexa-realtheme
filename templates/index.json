@@ -142,13 +142,13 @@
             "text_size": 16,
             "text_weight": "500",
             "text_transform": "none",
-            "text_color": "#483422",
+            "text_color": "#ffffff",
             "speed": 30,
             "pause_on_hover": true,
             "item_spacing": 60,
             "padding_vertical": 20,
             "desktop_width_percent": 100,
-            "background_color": "#f3ff34"
+            "background_color": "#483422"
           },
           "blocks": {}
         }
@@ -200,13 +200,13 @@
             "text_size": 16,
             "text_weight": "500",
             "text_transform": "none",
-            "text_color": "#483422",
+            "text_color": "#ffffff",
             "speed": 30,
-            "pause_on_hover": false,
+            "pause_on_hover": true,
             "item_spacing": 60,
             "padding_vertical": 20,
             "desktop_width_percent": 100,
-            "background_color": "#f3ff34"
+            "background_color": "#483422"
           },
           "blocks": {}
         }
